@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d0242ff3-6d9b-47d5-9741-0cd3b7509b63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/.vscode/settings.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Asteroid/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Asteroid/src/main/java/dk/sdu/mmmi/cbse/asteroidsystem/Asteroid.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Asteroid/src/main/java/dk/sdu/mmmi/cbse/asteroidsystem/AsteroidControlSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Asteroid/src/main/java/dk/sdu/mmmi/cbse/asteroidsystem/AsteroidPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Bullet/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Bullet/src/main/java/dk/sdu/mmmi/cbse/bullet/Bullet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Bullet/src/main/java/dk/sdu/mmmi/cbse/bullet/BulletControlSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Bullet/src/main/java/dk/sdu/mmmi/cbse/bullet/BulletPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Bullet/src/main/java/dk/sdu/mmmi/cbse/bullet/EnemyBullet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Bullet/src/main/java/dk/sdu/mmmi/cbse/bullet/PlayerBullet.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Collision/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Collision/src/main/java/dk/sdu/mmmi/cbse/collisionsystem/CollisionControlSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Common/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/Entity.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/GameData.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/GameKeys.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/World.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/entityparts/EntityPart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/entityparts/LifePart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/entityparts/MovingPart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Common/src/main/java/dk/sdu/mmmi/cbse/common/data/entityparts/PositionPart.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Common/src/main/java/dk/sdu/mmmi/cbse/common/events/Event.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Common/src/main/java/dk/sdu/mmmi/cbse/common/services/IEntityProcessingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Common/src/main/java/dk/sdu/mmmi/cbse/common/services/IGamePluginService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Common/src/main/java/dk/sdu/mmmi/cbse/common/services/IPostEntityProcessingService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Core/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Core/src/main/java/dk/sdu/mmmi/cbse/main/Game.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Core/src/main/java/dk/sdu/mmmi/cbse/main/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Core/src/main/java/dk/sdu/mmmi/cbse/managers/GameInputProcessor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Enemy/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Enemy/src/main/java/dk/sdu/mmmi/cbse/enemysystem/Enemy.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Enemy/src/main/java/dk/sdu/mmmi/cbse/enemysystem/EnemyControlSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Enemy/src/main/java/dk/sdu/mmmi/cbse/enemysystem/EnemyPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Player/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Player/src/main/java/dk/sdu/mmmi/cbse/playersystem/Player.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Player/src/main/java/dk/sdu/mmmi/cbse/playersystem/PlayerControlSystem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/Player/src/main/java/dk/sdu/mmmi/cbse/playersystem/PlayerPlugin.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../GameLab/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../README.md" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="7t0fselp" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="1qiOs5eC37gyaJVuEMyTfJIoWf1" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/CStil/Desktop/Caspers-CBSE/TestLab/PaxAsteroids",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn clean install pax:provision" />
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.PlayerProcessorTest">
+    <configuration name="PlayerProcessorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OSGiPlayer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dk.sdu.mmmi.osgiplayer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dk.sdu.mmmi.osgiplayer" />
+      <option name="MAIN_CLASS_NAME" value="dk.sdu.mmmi.osgiplayer.PlayerProcessorTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayerProcessorTest.testPosition" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="OSGiPlayer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="dk.sdu.mmmi.osgiplayer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="dk.sdu.mmmi.osgiplayer" />
+      <option name="MAIN_CLASS_NAME" value="dk.sdu.mmmi.osgiplayer.PlayerProcessorTest" />
+      <option name="METHOD_NAME" value="testPosition" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="LiferayDockerServerConfiguration" factoryName="Liferay Docker Server">
+      <option name="passParentEnvironments" value="true" />
+      <option name="workspaceLocation" value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PlayerProcessorTest" />
+        <item itemvalue="JUnit.PlayerProcessorTest.testPosition" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d0242ff3-6d9b-47d5-9741-0cd3b7509b63" name="Default Changelist" comment="" />
+      <created>1617559148963</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617559148963</updated>
+      <workItem from="1617559150510" duration="2000" />
+      <workItem from="1620471426047" duration="2532000" />
+      <workItem from="1620566688707" duration="1000" />
+      <workItem from="1652102520086" duration="324000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

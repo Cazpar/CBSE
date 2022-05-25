@@ -1,0 +1,11 @@
+platform=1649591210920
+cluster.asteroidsnetbeansmodules=1649591210918
+cluster.bin=1649591210919
+cluster.etc=1649591210920
+cluster.platform=1649591210920
+user=1649591210920
+crc=7
+locale=en_US
+branding=asteroidsnetbeansmodules
+java.version=17.0.2
+java.vm.version=17.0.2+8-LTS-86

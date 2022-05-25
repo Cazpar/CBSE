@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/Asteroid/Asteroid.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/Asteroid/Asteroid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/application/AsteroidsNetbeansModules-app.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/application/AsteroidsNetbeansModules-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/branding/AsteroidsNetbeansModules-branding.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/branding/AsteroidsNetbeansModules-branding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/AsteroidsNetbeansModules-parent.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/AsteroidsNetbeansModules-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/Bullet/Bullet.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/Bullet/Bullet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/Collision/Collision.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/Collision/Collision.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/Common/Common.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/Common/Common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/CommonAsteroids/CommonAsteroids.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/CommonAsteroids/CommonAsteroids.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/CommonBullet/CommonBullet.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/CommonBullet/CommonBullet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/CommonEnemy/CommonEnemy.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/CommonEnemy/CommonEnemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/CommonPlayer/CommonPlayer.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/CommonPlayer/CommonPlayer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/Core/Core.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/Core/Core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/Enemy/Enemy.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/Enemy/Enemy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NBRuntimeExample12/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/NBRuntimeExample12/HelloWorld/HelloWorld.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NBRuntimeExample12/application/NBRuntimeExample12-app.iml" filepath="$PROJECT_DIR$/NBRuntimeExample12/application/NBRuntimeExample12-app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NBRuntimeExample12/branding/NBRuntimeExample12-branding.iml" filepath="$PROJECT_DIR$/NBRuntimeExample12/branding/NBRuntimeExample12-branding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/NBRuntimeExample12/NBRuntimeExample12-parent.iml" filepath="$PROJECT_DIR$/NBRuntimeExample12/NBRuntimeExample12-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NetbeansLab2.iml" filepath="$PROJECT_DIR$/.idea/NetbeansLab2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/Player/Player.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/Player/Player.iml" />
+      <module fileurl="file://$PROJECT_DIR$/AsteroidsNetbeansModules/SilentUpdate/SilentUpdate.iml" filepath="$PROJECT_DIR$/AsteroidsNetbeansModules/SilentUpdate/SilentUpdate.iml" />
+    </modules>
+  </component>
+</project>

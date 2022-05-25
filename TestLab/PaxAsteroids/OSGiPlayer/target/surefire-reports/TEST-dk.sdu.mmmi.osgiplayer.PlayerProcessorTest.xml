@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="dk.sdu.mmmi.osgiplayer.PlayerProcessorTest" time="0.253" tests="1" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="windows"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.class.path" value="C:\Users\CStil\Desktop\Caspers-CBSE\TestLab\PaxAsteroids\OSGiPlayer\target\test-classes;C:\Users\CStil\Desktop\Caspers-CBSE\TestLab\PaxAsteroids\OSGiPlayer\target\classes;C:\Users\CStil\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\CStil\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\CStil\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\CStil\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\CStil\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\CStil\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\CStil\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;C:\Users\CStil\.m2\repository\org\osgi\org.osgi.core\4.3.0\org.osgi.core-4.3.0.jar;C:\Users\CStil\Desktop\Caspers-CBSE\TestLab\PaxAsteroids\OSGiCommonPlayer\target\OSGiCommonPlayer-1.0-SNAPSHOT.jar;C:\Users\CStil\Desktop\Caspers-CBSE\TestLab\PaxAsteroids\OSGiCommon\target\OSGiCommon-1.0-SNAPSHOT.jar;C:\Users\CStil\Desktop\Caspers-CBSE\TestLab\PaxAsteroids\OSGiCommonBullet\target\OSGiCommonBullet-1.0-SNAPSHOT.jar;"/>
+    <property name="java.vm.vendor" value="Azul Systems, Inc."/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="user.variant" value=""/>
+    <property name="java.vendor.url" value="http://www.azul.com/"/>
+    <property name="user.timezone" value="Europe/Paris"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="C:\Users\CStil\.jdks\azul-1.8.0_332\jre\bin"/>
+    <property name="sun.java.command" value="C:\Users\CStil\AppData\Local\Temp\surefire5952325324960011324\surefirebooter8259364766564472734.jar C:\Users\CStil\AppData\Local\Temp\surefire5952325324960011324 2022-05-09T15-27-20_317-jvmRun1 surefire4308986128074382266tmp surefire_0143222056601521468tmp"/>
+    <property name="surefire.test.class.path" value="C:\Users\CStil\Desktop\Caspers-CBSE\TestLab\PaxAsteroids\OSGiPlayer\target\test-classes;C:\Users\CStil\Desktop\Caspers-CBSE\TestLab\PaxAsteroids\OSGiPlayer\target\classes;C:\Users\CStil\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar;C:\Users\CStil\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar;C:\Users\CStil\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\CStil\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar;C:\Users\CStil\.m2\repository\org\junit\jupiter\junit-jupiter-params\5.6.0\junit-jupiter-params-5.6.0.jar;C:\Users\CStil\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.0\junit-jupiter-engine-5.6.0.jar;C:\Users\CStil\.m2\repository\org\junit\platform\junit-platform-engine\1.6.0\junit-platform-engine-1.6.0.jar;C:\Users\CStil\.m2\repository\org\osgi\org.osgi.core\4.3.0\org.osgi.core-4.3.0.jar;C:\Users\CStil\Desktop\Caspers-CBSE\TestLab\PaxAsteroids\OSGiCommonPlayer\target\OSGiCommonPlayer-1.0-SNAPSHOT.jar;C:\Users\CStil\Desktop\Caspers-CBSE\TestLab\PaxAsteroids\OSGiCommon\target\OSGiCommon-1.0-SNAPSHOT.jar;C:\Users\CStil\Desktop\Caspers-CBSE\TestLab\PaxAsteroids\OSGiCommonBullet\target\OSGiCommonBullet-1.0-SNAPSHOT.jar;"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="C:\Users\CStil"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="C:\Users\CStil\.jdks\azul-1.8.0_332\jre"/>
+    <property name="basedir" value="C:\Users\CStil\Desktop\Caspers-CBSE\TestLab\PaxAsteroids\OSGiPlayer"/>
+    <property name="file.separator" value="\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="jdk.vendor.version" value="Zulu 8.62.0.19-CA-win64"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="C:\Users\CStil\AppData\Local\Temp\surefire5952325324960011324\surefirebooter8259364766564472734.jar"/>
+    <property name="sun.boot.class.path" value="C:\Users\CStil\.jdks\azul-1.8.0_332\jre\lib\resources.jar;C:\Users\CStil\.jdks\azul-1.8.0_332\jre\lib\rt.jar;C:\Users\CStil\.jdks\azul-1.8.0_332\jre\lib\sunrsasign.jar;C:\Users\CStil\.jdks\azul-1.8.0_332\jre\lib\jsse.jar;C:\Users\CStil\.jdks\azul-1.8.0_332\jre\lib\jce.jar;C:\Users\CStil\.jdks\azul-1.8.0_332\jre\lib\charsets.jar;C:\Users\CStil\.jdks\azul-1.8.0_332\jre\lib\jfr.jar;C:\Users\CStil\.jdks\azul-1.8.0_332\jre\lib\cat.jar;C:\Users\CStil\.jdks\azul-1.8.0_332\jre\classes"/>
+    <property name="user.script" value=""/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_332-b09"/>
+    <property name="user.name" value="CStil"/>
+    <property name="path.separator" value=";"/>
+    <property name="os.version" value="10.0"/>
+    <property name="java.endorsed.dirs" value="C:\Users\CStil\.jdks\azul-1.8.0_332\jre\lib\endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="C:\Users\CStil\.m2\repository"/>
+    <property name="java.vendor.url.bug" value="http://www.azul.com/support/"/>
+    <property name="java.io.tmpdir" value="C:\Users\CStil\AppData\Local\Temp\"/>
+    <property name="idea.version" value="2022.1"/>
+    <property name="java.version" value="1.8.0_332"/>
+    <property name="user.dir" value="C:\Users\CStil\Desktop\Caspers-CBSE\TestLab\PaxAsteroids\OSGiPlayer"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.library.path" value="C:\Users\CStil\.jdks\azul-1.8.0_332\jre\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\CStil\AppData\Local\Microsoft\WindowsApps;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Program Files (x86)\Calibre2\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Microsoft SQL Server\130\Tools\Binn\;C:\Program Files\Microsoft SQL Server\Client SDK\ODBC\170\Tools\Binn\;C:\Program Files\Git\cmd;C:\Program Files\Java\jre1.8.0_271\bin;C:\Users\CStil\Desktop\apache-maven-3.8.5\bin;C:\Users\CStil\scoop\shims;C:\Users\CStil\AppData\Local\Microsoft\WindowsApps;C:\Users\CStil\spicetify-cli;C:\Users\CStil\AppData\Local\GitHubDesktop\bin;C:\Users\CStil\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\mingw-w64\x86_64-8.1.0-posix-seh-rt_v6-rev0\mingw64\bin;C:\Users\CStil\.dotnet\tools;C:\Users\CStil\AppData\Local\gitkraken\bin;C:\Users\CStil\Desktop\apache-maven-3.8.5\bin;;."/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Azul Systems, Inc."/>
+    <property name="java.vm.version" value="25.332-b09"/>
+    <property name="java.ext.dirs" value="C:\Users\CStil\.jdks\azul-1.8.0_332\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="testSpawnPosition" classname="dk.sdu.mmmi.osgiplayer.PlayerProcessorTest" time="0.22">
+    <system-out><![CDATA[Movement test start
+Movement test done
+]]></system-out>
+  </testcase>
+</testsuite>
